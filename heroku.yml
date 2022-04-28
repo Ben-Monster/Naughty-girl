@@ -1,8 +1,13 @@
-build:
-  docker:
-      worker: /whatsasena/Dockerfile
+
+build: 
+  docker: 
+      worker: Dockerfile
 run:
    worker: npm start
+
+
+
+
 
 
 
