@@ -4,6 +4,7 @@
 
 ![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Devilser/RosyMwol-QR)
 
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ben-Monster/NAUGHTY-GIRL.git) 
 
      
