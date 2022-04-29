@@ -7,8 +7,8 @@
 
 
 
-[![Run on Repl.it]
-(https://replit.com/@BenMonster/NAUGHTY-GIRL-QR?v=1
+
+[![Run on Repl.it](https://replit.com/@BenMonster/NAUGHTY-GIRL-QR?v=1
 
 
 
