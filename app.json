@@ -1,0 +1,177 @@
+
+{
+    "name": "naughty",
+    "description": "🧚‍♂️naughty is a bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/81e95f82feec6f1465eba.jpg",
+    "keywords": ["whatsapp", "userbot", "XX", "XNXX", "bot", "api", "ai", "Ben-Monster"],
+    "repository": "",
+    "website":   "https://chat.whatsapp.com/IfgZ1v6tYSh53nxHd8FBVN",
+    "success_url": "https://chat.whatsapp.com/IfgZ1v6tYSh53nxHd8FBVN",
+    "stack": "container",
+    "env": {
+        "NAUGHTY-GIRL_SESSION": {
+            "description": "Qr scan",
+            "required": true
+        },
+        "SUDO": {
+            "description": " 947xxxxxxxx (Sri lanka  94)",
+            "required": false
+        },
+        "NO_LOG": {
+            "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don t want to see error log.",
+            "required": true,
+            "value": "false"
+        },
+        "LANGUAGE": {
+            "description": "Bot En",
+            "required": true,
+            "value": "En"
+        },
+        "HANDLERS": {
+            "description": "Bot ගේ ක්‍රියාකාරිත්වය සඳහා යෙදිය යුතු සලකුනු",
+            "required": true,
+            "value": "^[.]"
+        },
+        "MENU": {
+            "description": "✅COMMAND LIST එකට දාන්න ඕන දෙයක් දාන්න",
+            "required": false,
+            "value": "*NAUGHTY-GIRL*"
+        },
+        "SEND_READ": {
+            "description": "Bot message seen?",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU": {
+            "description": "Heroku",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU_API_KEY": {
+            "description": "https://dashboard.heroku.com/account link API key scroll Reveal API key copy paste",
+            "required": true
+        },
+        "HEROKU_APP_NAME": {
+            "description": " App name",
+            "required": true
+        },
+        "MUTE_MESSAGE": {
+            "description": "✅Group  MUTE default.",
+            "required": false,
+            "value": "default"
+        },
+        "BLOCK_CHAT": {
+            "description": "✅Ex: 947xxxxxxxx && 947xxxxxxxx  947xxxxxxxx,947xxxxxxxx",
+            "required": false,
+            "value": "27 67 180 5497,"
+        },
+        "UNMUTE_MESSAGE": {
+            "description": "✅Group  unmute",
+            "required": false,
+            "value": "default"
+        },
+        "BLOCK_MESSAGE": {
+            "description": "✅block default",
+            "required": false,
+            "value": "default"
+        },
+        "UNBLOCK_MESSAGE": {
+            "description": "✅unblock default",
+            "required": false,
+            "value": "default"
+        },
+        "WORK_TYPE": {
+            "description": "✅Bot “public” bot “private”bot",
+             
+   
+            "required": true,
+            "value": "private"
+        },       
+        "DEBUG": {
+            "description": "",
+            "required": true,
+            "value": "false"
+        },
+         "ALIVE_LOGO": {
+            "description": "✅Alive message image link",
+            "required": true,
+            "value": "https://telegra.ph/file/ef9be86d4f8e07cfb9210.jpg"
+        },
+        "WELCOME_LOGO": {
+            "description": "✅Welcome message video link",
+            "required": true,
+            "value": "https://telegra.ph/file/1c9d26b04ca643a8e20f7.mp4"
+        },
+        "BYE_LOGO": {
+            "description": "✅Goodbye message video link",
+            "required": true,
+            "value": "https://telegra.ph/file/1c9d26b04ca643a8e20f7.mp4"
+        },
+        "REMOVE_BG_API_KEY": {
+            "description": "remove.bg  website signup, API key API key",
+            "required": false
+        },
+        "ALIVE_MESSAGE": {
+            "description": "✅Bot Online" 
+          
+          
+          
+
+            "required": false,
+            "value": "default"
+        },
+        "BAN_MESSAGE": {
+            "description": "✅ban remove message default",
+          
+          
+            "required": false,
+            "value": "default"
+        },
+        "ADD_MESSAGE": {
+            "description": "✅default",
+            "required": false,
+            "value": "default"
+        },
+        "KICKME_MESSAGE": {
+            "description": "✅default",
+            "required": false,
+            "value": "default"
+        },
+        "PROMOTE_MESSAGE": {
+            "description": "✅default",
+            "required": false,
+            "value": "default"
+        },
+        "DEMOTE_MESSAGE": {
+            "description": "✅default",
+            "required": false,
+            "value": "default"
+        },
+        "AFK_MESSAGE": {
+            "description": "✅default",
+            "required": false,
+            "value": "default"
+        },
+        "GAN_IMAGE": {
+            "description": "",
+            "required": true,
+            "value": "https://i.hizliresim.com/loUtAb.jpg"
+        },
+        "NO_ONLINE": {
+            "description": "",
+            "required": false,
+            "value": "true"
+        },
+        "COFFEEHOUSE_API_KEY": {
+            "description": "",
+            "required": false,
+            "value": "true"
+        }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
