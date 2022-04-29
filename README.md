@@ -2,7 +2,7 @@
 
 ![logo](https://telegra.ph/file/81e95f82feec6f1465eba.jpg)
 
-(https://replit.com/@BenMonster/NAUGHTY-GIRL-QR?v=1
+[![Run on Repl.it](https://replit.com/@BenMonster/NAUGHTY-GIRL-QR?v=1
 
 
 
