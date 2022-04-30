@@ -3,19 +3,19 @@
     "description": "Naughty-girl bot - Extra featured, fully customisable WhatsApp Public/User bot.",
     "logo": "https://www.linkpicture.com/q/rgnk.jpg",
     "keywords": ["WhatsApp", "Userbot", "Naughty-girl", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/blgx777/ura",
-    "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "repository": "https://github.com/Ben-Monster/Naughty-girl.git",
+    "website":   "https://github.com/Ben-Monster/Naughty-girl.git",
+    "success_"url": "https://github.com/Ben-Monster/Naughty-girl.git",
     "stack": "container",
     "env": {
-        "RAGANORK_CODE": {
+        "NAUGHTY-GIRL_CODE": {
             "description": "Your QR session. Paste here yours Raganork code.",
             "required": true
         },
        "C_CODE": {
             "description": "Your country code. Use 91 for India!.",
             "required": true,
-            "value": "91"
+            "value": "27"
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it!",
@@ -167,7 +167,7 @@
         "GROUP_LINK": {
             "description": "Official group link of your bot.",
             "required": true,    
-            "value": "https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb"
+            "value": "https://chat.whatsapp.com/Lk7fg6e7Kgu9pejiGPh7l7"
         },
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
