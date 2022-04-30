@@ -21,9 +21,9 @@
   "developer": "Naughty-girl / @Ben-Monster",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "sues"
+    "url": "https://github.com/Ben-Monster/Naughty/issues" 
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/Ben-Monster/Naughty#readme",
   "dependencies": {
     "file-type": "16.5.2",
     "nekobin": "0.0.1",
