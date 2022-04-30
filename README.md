@@ -4,7 +4,7 @@
 
 ### TO SCAN QR CODE 👇🏻👇🏻👇🏻
 
- [![Run on Repl.it](https://replit.com/@BenMonster/Naughty-girl-1?v=1)
+ ![Run on Repl.it](https://replit.com/@BenMonster/Naughty-girl-1?v=1)
 
 
 
