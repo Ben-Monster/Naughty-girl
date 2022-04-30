@@ -7,7 +7,7 @@
 
 
 
-<a href="https://raganork-qr.herokuapp.com/api"><img align="center" src="/language/replit-scan.png" alt="Scan QR" height="112" width="300" /></a>
+<a "https:// repl.it.com/@Ben-Monster/NAUGHTY-GIRLqr.Scan QR" 
 
 
 [![Run on Repl.it](https://replit.com/@BenMonster/NAUGHTY-GIRL-QR?v=1
