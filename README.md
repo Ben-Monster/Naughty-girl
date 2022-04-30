@@ -1,6 +1,6 @@
 <h1 align="center"><b> NAUGHTY-GIRL🔞  </b></h1>
 
-![logo](https://imgur.com/a/9q36bn9
+![logo](https://imgur.com/a/9q36bn9) 
 
 ### TO SCAN QR CODE 👇🏻👇🏻👇🏻
 
