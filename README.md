@@ -4,13 +4,13 @@
 
 ### TO SCAN QR CODE 👇🏻👇🏻👇🏻
 
+ [![Run on Repl.it](https://replit.com/@BenMonster/Naughty-girl-1?v=1)
 
 
 
-<a "https:// repl.it.com/@Ben-Monster/NAUGHTY-GIRLqr.Scan QR" 
 
 
-[![Run on Repl.it](https://replit.com/@BenMonster/NAUGHTY-GIRL-QR?v=1
+
 
 
 
